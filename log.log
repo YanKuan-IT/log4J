@@ -1,0 +1,8 @@
+2017-08-04 13:40:16,552 [main] INFO  [yk.Test] - 普通info信息
+2017-08-04 13:40:16,553 [main] DEBUG [yk.Test] - 调试debug信息
+2017-08-04 13:40:16,553 [main] ERROR [yk.Test] - 报错error信息
+2017-08-04 13:40:16,553 [main] WARN  [yk.Test] - 警告warn信息
+2017-08-04 13:40:16,553 [main] FATAL [yk.Test] - 严重错误fatal信息
+2017-08-04 13:40:16,554 [main] ERROR [yk.Test] - 报错信息
+java.lang.IllegalArgumentException: 不合法不正确的参数
+	at yk.Test.main(Test.java:17)
